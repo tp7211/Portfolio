@@ -25,6 +25,14 @@ export const projectsData = [
         code: 'https://github.com/tp7211/Gallery-Vault',
         image: two
     },
+    {
+        id: 3,
+        projectName: 'Capstone',
+        projectDesc: 'It is my final year college project based on MERN Stack development. Using this we can order food online, and this one is universal, so any restaurants or cafe owners can use this one according to there requirements',
+        tags:['MongoDB', 'Express', 'React', 'Node'],
+        code: 'https://github.com/tp7211/TYT-Pizza',
+        image: three
+    },
 
 ]
 
